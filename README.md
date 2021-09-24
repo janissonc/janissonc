@@ -3,16 +3,4 @@ buscando sempre o melhor e em contante treinamentos para melhora meus conhecimen
 
 Conhecimentos
 
-- NodeJS
-- nestJS
-- PHP
-- Laravel
-- Python
-- Django
-- .NET
-- SQLServer
-- Mysql
-- mongoDB
-- angular 6+
-- vuejs
-- reactjs
+- NodeJS, - nestJS, - PHP, - Laravel, - Python, - Django, - .NET, - SQLServer, - Mysql, - mongoDB, - angular 6+,  - vuejs, - reactjs
