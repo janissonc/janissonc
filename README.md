@@ -21,9 +21,9 @@ buscando sempre o melhor e em contante treinamentos para melhora meus conhecimen
   <img align="center" alt="janissonc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="janissonc-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="janissonc-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="janissonc-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="janissonc-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="janissonc-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="janissonc-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="janissonc-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="janissonc-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
   
   ##
@@ -34,7 +34,3 @@ buscando sempre o melhor e em contante treinamentos para melhora meus conhecimen
   </div>
   
   ![Snake animation](https://github.com/janissonc/janissonc/blob/output/github-contribution-grid-snake.svg)
-  
-Conhecimentos
-
-- NodeJS, - nestJS, - PHP, - Laravel, - Python, - Django, - .NET, - SQLServer, - Mysql, - mongoDB, - angular 6+,  - vuejs, - reactjs
